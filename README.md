@@ -1,0 +1,3 @@
+# FasTyper
+A 
+typing game
