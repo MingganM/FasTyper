@@ -1,7 +1,7 @@
 import "../css/style.css";
 
 let GAME = (function(){
-
+    
     // SELECTORS:
     let generalSelectors = (function(){
         let mainContent = document.querySelector('.main__content');

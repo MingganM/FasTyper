@@ -30,5 +30,8 @@
     "IE >= 11",
     "last 5 versions",
     "Safari >= 6.2.8"
-  ]
+  ],
+  "dependencies": {
+    "@babel/polyfill": "^7.10.4"
+  }
 }

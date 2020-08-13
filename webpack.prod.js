@@ -17,8 +17,7 @@ module.exports = merge(common, {
                 collapseWhitespace: true,
                 removeComments: true
             },
-            filename: "index.html",
-            title: "FastTyper"
+            filename: "index.html"
         }),
         new MiniCssExtractPlugin({
             filename: "style.css"
